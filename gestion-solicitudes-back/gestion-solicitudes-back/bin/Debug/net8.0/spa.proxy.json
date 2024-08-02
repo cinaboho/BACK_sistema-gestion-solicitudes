@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"RedirectUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

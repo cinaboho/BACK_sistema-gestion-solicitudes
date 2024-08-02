@@ -1,8 +1,0 @@
-{
-"SpaProxyServer": {
-"ServerUrl": "https://localhost:44448",
-"LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\Admin\\Downloads\\server_tesisnueva\\sistema-gestion-solicitudes\\ClientApp\\",
-"MaxTimeoutInSeconds": "120"
-}
-}

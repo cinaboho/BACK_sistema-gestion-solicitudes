@@ -1,0 +1,6 @@
+@gestion_solicitudes_back_HostAddress = http://localhost:5133
+
+GET {{gestion_solicitudes_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
