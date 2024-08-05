@@ -379,20 +379,21 @@ namespace sistema_gestion_solicitudes.Controllers
                     Username = usuario.Username,
                     Correo = usuario.Correo,
                     Estado = usuario.Estado,
-                    FechaCreacion = DateTime.Now
+                    FechaCreacion = DateTime.Now,
+                    universidad = usuario.universidad,
                 };
 
                 foreach (Especialidad esp in usuario.Especialidades)
                 {
                     var especialidad = DBContext.Especialidades.FirstOrDefault(e => e.Id == esp.Id);
-                   
+
                     {
                         if (especialidad != null)
                         {
-                            
+
                             user.Especialidades.Add(especialidad);
                             especialidad.Usuarios.Add(user);
-                            
+
                         }
                     }
                 }
@@ -405,9 +406,11 @@ namespace sistema_gestion_solicitudes.Controllers
                             user.Roles.Add(role);
                             role.Usuarios.Add(user);
                         }
-                           
+
                     }
                 }
+
+
                 
                 DBContext.Users.Add(user);
                 await DBContext.SaveChangesAsync();

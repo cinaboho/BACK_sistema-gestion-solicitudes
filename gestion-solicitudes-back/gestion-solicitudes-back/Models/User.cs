@@ -12,6 +12,7 @@ public partial class User
 
     public string Username { get; set; } = null!;
 
+
     public string universidad { get; set; } = null!;
 
     public bool aceptoUsoApp { get; set; }
