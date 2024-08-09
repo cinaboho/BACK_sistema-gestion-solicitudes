@@ -371,6 +371,11 @@ namespace sistema_gestion_solicitudes.Controllers
             }
             else
             {
+
+
+                var hashedPassword = HashPassword(usuario.ContrasenaHash);
+                Console.WriteLine("Contraseña hasheada: " + hashedPassword);
+
                 var user = new User
                 {
                     Nombres = usuario.Nombres,
@@ -381,6 +386,7 @@ namespace sistema_gestion_solicitudes.Controllers
                     Estado = usuario.Estado,
                     FechaCreacion = DateTime.Now,
                     universidad = usuario.universidad,
+                    ContrasenaHash = HashPassword(usuario.ContrasenaHash),
                 };
 
                 foreach (Especialidad esp in usuario.Especialidades)

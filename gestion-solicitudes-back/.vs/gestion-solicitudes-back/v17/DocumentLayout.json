@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|c:\\users\\admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\models\\resolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|solutionrelative:gestion-solicitudes-back\\models\\resolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|c:\\users\\admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\models\\anexofield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|solutionrelative:gestion-solicitudes-back\\models\\anexofield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|c:\\users\\admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|solutionrelative:gestion-solicitudes-back\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|c:\\users\\admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|solutionrelative:gestion-solicitudes-back\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|c:\\users\\admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\controllers\\anexofieldscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|solutionrelative:gestion-solicitudes-back\\controllers\\anexofieldscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|c:\\users\\admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\models\\anexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|solutionrelative:gestion-solicitudes-back\\models\\anexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|c:\\users\\admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\models\\tipoanexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|solutionrelative:gestion-solicitudes-back\\models\\tipoanexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|c:\\users\\admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\controllers\\solicituddetallescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|solutionrelative:gestion-solicitudes-back\\controllers\\solicituddetallescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|c:\\users\\admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\models\\solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|solutionrelative:gestion-solicitudes-back\\models\\solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|c:\\users\\admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\models\\tiposolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|solutionrelative:gestion-solicitudes-back\\models\\tiposolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|c:\\users\\admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\models\\solicituddetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|solutionrelative:gestion-solicitudes-back\\models\\solicituddetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86B720C0-A06C-4560-AB87-4E3A992F5529}|gestion-solicitudes-back\\gestion-solicitudes-back.csproj|c:\\users\\admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,32 +99,136 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Resolucion.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\Resolucion.cs",
+              "RelativeDocumentMoniker": "gestion-solicitudes-back\\Models\\Resolucion.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\Resolucion.cs",
+              "RelativeToolTip": "gestion-solicitudes-back\\Models\\Resolucion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T21:35:16.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Solicitud.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\Solicitud.cs",
+              "RelativeDocumentMoniker": "gestion-solicitudes-back\\Models\\Solicitud.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\Solicitud.cs",
+              "RelativeToolTip": "gestion-solicitudes-back\\Models\\Solicitud.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T04:43:36.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoSolicitud.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\TipoSolicitud.cs",
+              "RelativeDocumentMoniker": "gestion-solicitudes-back\\Models\\TipoSolicitud.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\TipoSolicitud.cs",
+              "RelativeToolTip": "gestion-solicitudes-back\\Models\\TipoSolicitud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:51:10.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SolicitudDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\SolicitudDetalle.cs",
+              "RelativeDocumentMoniker": "gestion-solicitudes-back\\Models\\SolicitudDetalle.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\SolicitudDetalle.cs",
+              "RelativeToolTip": "gestion-solicitudes-back\\Models\\SolicitudDetalle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:47:29.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SolicitudDetallesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Controllers\\SolicitudDetallesController.cs",
+              "RelativeDocumentMoniker": "gestion-solicitudes-back\\Controllers\\SolicitudDetallesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Controllers\\SolicitudDetallesController.cs",
+              "RelativeToolTip": "gestion-solicitudes-back\\Controllers\\SolicitudDetallesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:47:20.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoAnexo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\TipoAnexo.cs",
+              "RelativeDocumentMoniker": "gestion-solicitudes-back\\Models\\TipoAnexo.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\TipoAnexo.cs",
+              "RelativeToolTip": "gestion-solicitudes-back\\Models\\TipoAnexo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:19:27.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Anexo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\Anexo.cs",
+              "RelativeDocumentMoniker": "gestion-solicitudes-back\\Models\\Anexo.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\Anexo.cs",
+              "RelativeToolTip": "gestion-solicitudes-back\\Models\\Anexo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T21:39:34.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnexoFieldsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Controllers\\AnexoFieldsController.cs",
+              "RelativeDocumentMoniker": "gestion-solicitudes-back\\Controllers\\AnexoFieldsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Controllers\\AnexoFieldsController.cs",
+              "RelativeToolTip": "gestion-solicitudes-back\\Controllers\\AnexoFieldsController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T21:26:03.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnexoField.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\AnexoField.cs",
+              "RelativeDocumentMoniker": "gestion-solicitudes-back\\Models\\AnexoField.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\AnexoField.cs",
+              "RelativeToolTip": "gestion-solicitudes-back\\Models\\AnexoField.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T21:25:49.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "gestion-solicitudes-back\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Controllers\\UserController.cs",
               "RelativeToolTip": "gestion-solicitudes-back\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAGoBAAAAAAAAAAAlwIEBAAAaAAAA",
+              "ViewState": "AQIAAGoBAAAAAAAAAAAhwH0BAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T03:00:08.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\User.cs",
-              "RelativeDocumentMoniker": "gestion-solicitudes-back\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Models\\User.cs",
-              "RelativeToolTip": "gestion-solicitudes-back\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T04:06:30.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "gestion-solicitudes-back\\Controllers\\AccountController.cs",
@@ -100,12 +236,11 @@
               "RelativeToolTip": "gestion-solicitudes-back\\Controllers\\AccountController.cs",
               "ViewState": "AQIAAF0AAAAAAAAAaGYqwG8AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T20:20:40.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T20:20:40.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\gestion-solicitudes-back\\gestion-solicitudes-back\\appsettings.json",
               "RelativeDocumentMoniker": "gestion-solicitudes-back\\appsettings.json",
@@ -113,8 +248,7 @@
               "RelativeToolTip": "gestion-solicitudes-back\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-01T20:04:24.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T20:04:24.145Z"
             }
           ]
         }

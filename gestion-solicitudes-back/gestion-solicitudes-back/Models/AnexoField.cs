@@ -5,10 +5,11 @@
 
         public int Id { get; set; }
 
-        public string Nombre { get; set; } = null!;
+        public string Nombre { get; set; } = string.Empty;
 
-        public string Value { get; set; } = null!;
+        public string Value { get; set; } = string.Empty;
         public int AnexoId { get; set; }
+
 
 
     }
